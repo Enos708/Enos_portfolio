@@ -1,2 +1,2 @@
 flet==0.24.1
-flet-video==0.0.5
+flet-video
